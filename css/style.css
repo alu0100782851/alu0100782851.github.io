@@ -16,8 +16,9 @@ h4{
 	color: white;
 	line-height: 30px; /*Espacio entre lineas*/
 	font-weight: bold; /*negritas*/
+	/*margin-bottom: -5px;*/
 }
 
-#practicas{ /**/
-	text-align: center;
+#prct5 h4{ 
+	margin-bottom: -10px;
 }
